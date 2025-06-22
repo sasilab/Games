@@ -1,0 +1,1 @@
+print("just make some money, people will like you")
